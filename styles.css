@@ -1,1 +1,48 @@
 
+body{
+    background-color:	#F5F5F5;
+	padding:10px;
+	width:800px;
+}
+#container{
+	background-color:white;
+	padding:50px 10px;
+	height:100%;
+	display:flex;
+	justify-content:;
+	
+}
+.logo{
+	width:20px;
+}
+.profile img{
+	width:auto-flow;
+	height:200px;
+	margin-right:20px;
+}
+.left-container{
+   
+   margin-right:40px;
+}
+.profile{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.info h3, .info p {
+    display: inline;
+}
+ul{
+    list-style: none;
+	padding:0px;
+    
+}
+pogress{
+	box-sizing:border-box;
+}
+.logo::after {
+  content: "75%";
+  position: absolute;
+  top:0;
+  right: 0;
+}
