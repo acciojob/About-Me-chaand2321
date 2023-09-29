@@ -40,9 +40,4 @@ ul{
 pogress{
 	box-sizing:border-box;
 }
-.logo::after {
-  content: "75%";
-  position: absolute;
-  top:0;
-  right: 0;
-}
+
